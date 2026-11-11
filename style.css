@@ -1,9 +1,10 @@
 body {
 	font-family: Monospace;
-	background-image: url("img/fondoweb.jpeg"); 
+	background-image: url('fondoweb.jpeg');
 	background-position: center center; 
 	background-repeat: no-repeat; 
 	background-size: cover;
+	background-attachment: fixed;
 	text-align: center;
 }
 nav {
@@ -47,7 +48,7 @@ div.contacto {
  justify-content: center;
 }
 section {
-aling-content: center;
+align-content: center;
 }
 footer {
 background-color: #F0A1E7;
