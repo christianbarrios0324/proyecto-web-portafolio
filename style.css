@@ -1,0 +1,56 @@
+body {
+	font-family: Monospace;
+	background-image: url("img/fondoweb.jpeg"); 
+	background-position: center center; 
+	background-repeat: no-repeat; 
+	background-size: cover;
+	text-align: center;
+}
+nav {
+ background-color: #F0A1E7;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+border-radius: 30px;
+}
+nav div {
+ gap: 150px;
+ font-size: 30px;
+ font-weight: 600;
+}
+a {
+text-decoration: none;
+border-bottom: 3px solid transparent;
+}
+a:hover {
+border-bottom: 3px solid #6828DE
+}
+p {
+font-size: 17px;
+font-family: georgia;
+}
+h1 {
+text-align: center;
+font-size: 50px;
+background-color: #F0A1E7;
+border-radius: 30px;
+}
+h2 {
+background-color: #A1A4F0;
+padding: 9px;
+width: 250px;
+border-radius: 10px;
+}
+div.contacto {
+ font-size: 20px;
+ display: flex;
+ justify-content: center;
+}
+section {
+aling-content: center;
+}
+footer {
+background-color: #F0A1E7;
+font-size: 15px;
+}
+
